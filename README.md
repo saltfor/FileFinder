@@ -1,7 +1,7 @@
 # FileFinder
 It can find your same files in your computer
 
-GUI
+-GUI-
 In graphical user interface, I added 3 button,3 listbox and 1 label.
 ‘Choose Directory’ button opens a folder browse dialog for choosing directory.
 ‘Start for Searching’ button performs to show filename, filesize,filelocation on the listboxes.
@@ -9,7 +9,7 @@ In graphical user interface, I added 3 button,3 listbox and 1 label.
 ‘ListBoxes’ are showing the file informations.
 ‘Label’ is showing the choosing directory.
 
-Code Explanations
+-Code Explanations-
 ‘Choose Directory’ Click
 It opens browser dialog for choosing directory. If user choose folder and click OK then take path to variable. Change label text to directory. Disable this button and enable start button. Call the DirSearch method.
 ‘DirSearch’
